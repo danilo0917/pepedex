@@ -1,0 +1,56 @@
+{
+  "name": "Raydium Mainnet Token List",
+  "official": [
+    {
+      "symbol": "SOL",
+      "name": "Native Solana",
+      "mint": "11111111111111111111111111111111",
+      "decimals": 9,
+      "extensions": {},
+      "icon": "https://img.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+      "hasFreeze": 0
+    },
+    {
+      "symbol": "Pepewifhat",
+      "name": "Pepewifhat",
+      "mint": "EAvKa9kGRMcQ44Eg3MPbXUP8ZEpfxgd5dToHBRF8m8ui",
+      "decimals": 6,
+      "extensions": {},
+      "icon": "/logo/logo.png",
+      "hasFreeze": 0
+    },
+    {
+      "symbol": "WSOL",
+      "name": "Wrapped SOL",
+      "mint": "So11111111111111111111111111111111111111112",
+      "decimals": 9,
+      "extensions": {},
+      "icon": "https://img.raydium.io/icon/So11111111111111111111111111111111111111112.png",
+      "hasFreeze": 0
+    },
+    {
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      },
+      "icon": "https://img.raydium.io/icon/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.png",
+      "hasFreeze": 1
+    },
+    {
+      "symbol": "USDT",
+      "name": "USDT",
+      "mint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "tether"
+      },
+      "icon": "https://img.raydium.io/icon/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.png",
+      "hasFreeze": 1
+    }
+  ],
+  "unOfficial": [],
+  "blacklist": []
+}
